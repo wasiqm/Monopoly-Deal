@@ -1,0 +1,14 @@
+# Game Settings
+game_title:		Das Kapital
+game_developers:	Wasiq M. and Ryan C.
+game_documentation:	www.ryan-coulson.com/daskapital/docs.html
+game_version:		0.2
+game_pack:		default
+game_enable_war:	True
+win_by_money:		True
+win_by_property:	True
+win_property_count:	3
+win_max_money:		50
+player_start_cards:	3
+player_cards_turn:	2
+player_max_cards:	6
