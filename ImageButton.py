@@ -53,7 +53,7 @@ class ImageButton:
         self.active = False
 
     def hide_circle(self):
-        self.cover = Image(self.center, "images/hide_circle.png")
+        self.cover = Image(self.center, "Images/hide_circle.png")
         self.cover.draw(self.win)
 
         self.deactivate()
